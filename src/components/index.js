@@ -8,7 +8,10 @@
  *   Footer,
  * };
  */
+
 import TalkView from './Views/Talk';
+import MynewsView from './Views/mynews'
 import Sponsors from './Sponsors/Sponsors';
 
-export { Sponsors, TalkView };
+
+export { Sponsors,MynewsView,TalkView};
